@@ -1,0 +1,159 @@
+# Copyright (C) 2024 Fajle Rabbi Choyon
+# This file is distributed under the same license as the Cybro Product Compare plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cybro Product Compare 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cybro-product-compare\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-01T00:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: cybro-product-compare\n"
+
+#. Plugin Name of the plugin
+msgid "Cybro Product Compare for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "#"
+msgstr ""
+
+#. Description of the plugin
+msgid "A powerful product comparison tool for WooCommerce stores"
+msgstr ""
+
+#. Author of the plugin
+msgid "Your Name"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "#"
+msgstr ""
+
+#: includes/Admin/Settings.php:31
+msgid "Product Compare Settings"
+msgstr ""
+
+#: includes/Admin/Settings.php:32
+msgid "Product Compare"
+msgstr ""
+
+#: includes/Admin/Settings.php:52
+msgid "General Settings"
+msgstr ""
+
+#: includes/Admin/Settings.php:61
+msgid "Compare Button Position"
+msgstr ""
+
+#: includes/Admin/Settings.php:70
+msgid "Attributes to Compare"
+msgstr ""
+
+#: includes/Admin/Settings.php:79
+msgid "Table Style"
+msgstr ""
+
+#: includes/Admin/Settings.php:116
+msgid "Configure the product comparison settings below."
+msgstr ""
+
+#: includes/Admin/Settings.php:130
+msgid "After Add to Cart"
+msgstr ""
+
+#: includes/Admin/Settings.php:133
+msgid "Before Add to Cart"
+msgstr ""
+
+#: includes/Admin/Settings.php:136
+msgid "After Product Title"
+msgstr ""
+
+#: includes/Admin/Settings.php:176
+msgid "Default"
+msgstr ""
+
+#: includes/Admin/Settings.php:179
+msgid "Minimal"
+msgstr ""
+
+#: includes/Admin/Settings.php:182
+msgid "Modern"
+msgstr ""
+
+#: includes/Core/ComparisonHandler.php:43
+msgid "Invalid product"
+msgstr ""
+
+#: includes/Core/ComparisonHandler.php:50
+msgid "Maximum products reached"
+msgstr ""
+
+#: includes/Core/ComparisonHandler.php:58
+msgid "Product added to compare"
+msgstr ""
+
+#: includes/Core/ComparisonHandler.php:77
+msgid "Product removed from compare"
+msgstr ""
+
+#: includes/Core/ComparisonHandler.php:127
+msgid "Price"
+msgstr ""
+
+#: includes/Core/ComparisonHandler.php:128
+msgid "Description"
+msgstr ""
+
+#: includes/Core/ComparisonHandler.php:129
+msgid "SKU"
+msgstr ""
+
+#: includes/Core/ComparisonHandler.php:130
+msgid "Stock Status"
+msgstr ""
+
+#: includes/Core/ComparisonHandler.php:131
+msgid "Weight"
+msgstr ""
+
+#: includes/Core/ComparisonHandler.php:132
+msgid "Dimensions"
+msgstr ""
+
+#: includes/Frontend/Compare_Button.php:45
+msgid "Remove from Compare"
+msgstr ""
+
+#: includes/Frontend/Compare_Button.php:46
+msgid "Add to Compare"
+msgstr ""
+
+#: includes/Frontend/Compare_Table.php:35
+msgid "No products to compare"
+msgstr ""
+
+#: includes/Frontend/Compare_Table.php:89
+msgid "Product"
+msgstr ""
+
+#: includes/Frontend/Compare_Table.php:108
+msgid "Remove"
+msgstr ""
+
+#: includes/Frontend/Compare_Table.php:146
+msgid "Add to Cart"
+msgstr ""
+
+#: includes/Frontend/Compare_Table.php:150
+msgid "View Product"
+msgstr ""
+
+#: cybro-product-compare.php:45
+msgid "Cybro Product Compare requires WooCommerce to be installed and activated!"
+msgstr ""
